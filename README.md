@@ -1,7 +1,7 @@
 # ChatPPT
 An AI-powered tool that auto-generates PowerPoint presentations based on a given topic using ChatGPT, Dall-E, and Stable Diffusion.
 
-
+![alt text](demo.png)
 
 # Introduction
 When I develop, I always keep two ironclad rules in mind:
