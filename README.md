@@ -70,7 +70,7 @@ To utilize the capabilities of **ChatPPT**, users will follow a streamlined proc
 # Demo in Google Colab
 Experience the functionality of ChatPPT without any local setup! Try out our interactive Colab notebook:
 
-<a target="_blank" href="https://colab.research.google.com/github/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/model_monitoring/model_monitoring.ipynb](https://colab.research.google.com/drive/1uo-LE6fnlQWng1xNg5e0rVEMSUjln_6P?authuser=1#scrollTo=_7Xae7iBupPj">
+<a target="_blank" href=" https://colab.research.google.com/drive/1uo-LE6fnlQWng1xNg5e0rVEMSUjln_6P?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
