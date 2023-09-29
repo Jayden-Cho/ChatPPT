@@ -1,0 +1,6 @@
+openai 
+python-pptx 
+gradio 
+diffusers 
+transformers 
+accelerate
