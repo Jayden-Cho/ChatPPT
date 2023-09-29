@@ -2,6 +2,7 @@
 <a target="_blank" href="https://colab.research.google.com/drive/1uo-LE6fnlQWng1xNg5e0rVEMSUjln_6P?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 An AI-powered tool that auto-generates PowerPoint presentations based on a given topic using ChatGPT, Dall-E, and Stable Diffusion.
 
 ![alt text](demo.png)
